@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 *Currently Working On* web development projects.<br><br>👯 *Looking to Collaborate* on Software Development projects.<br><br>🤝 *Seeking Help* in mentorship on advanced frontend techniques, backend development (Node.js, Express.js), and generally Software Development.<br><br>🌱 *Learning:* Software Engineering program at ALX. <br><br>💬 *Ask Me About:* Software development, JavaScript frameworks. <br><br>⚡ *Fun Fact:* Beyond my tech background, I'm fascinated by the intersection of technology with Science and astronomy, also a fan of sci-fi works.<br>
+🔭 *Currently Working On* web development projects.<br><br>👯 *Looking to Collaborate* on Software Development projects.<br>🤝 *Seeking Help* in mentorship on advanced frontend techniques, backend development (Node.js, Express.js), and generally Software Development.<br>🌱 *Learning:* Software Engineering program at ALX. <br>💬 *Ask Me About:* Software development, JavaScript frameworks. <br>⚡ *Fun Fact:* Beyond my tech background, I'm fascinated by the intersection of technology with Science and astronomy, also a fan of sci-fi works.<br>
 
 
 ## 💻 Tech Stack:
