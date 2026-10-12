@@ -1,2 +1,7 @@
-# 💫 About Me:
-🔭 *Currently Working On* web development projects.<br>👯 *Looking to Collaborate* on Software Development projects.<br>🤝 *Seeking mentorship* on advanced frontend and backend development (Node.js, Express.js).<br>🌱 *Learning:* Finished Software Engineering program at ALX, currently on ALX AI Starter Kit Program <br>💬 *Ask Me About:* Website development.<br>⚡ *Fun Fact:* Beyond my tech background, I'm fascinated by the intersection of technology with Science and astronomy, also a fan of sci-fi works.
+# About Me:
+*Currently Working On* web development projects.<br>
+*Looking to Collaborate* on Software Development projects.<br>
+*Seeking mentorship* on advanced frontend and backend development (Node.js, Express.js).<br>
+*Learning:* Finished Software Engineering program at ALX, with a BSc in Applied Physics and Computer Science <br>
+*Ask Me About:* Website development.<br>
+*Fun Fact:* Beyond my tech background, I'm fascinated by the intersection of technology with Science and astronomy, also a fan of sci-fi works.
